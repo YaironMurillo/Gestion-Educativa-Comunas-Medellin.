@@ -60,4 +60,16 @@ PHP o Python).
 • Herramientas de control de versiones (como Git).
 • Software de diseño y modelado (por ejemplo Visual Paradigm, StarUML o 
 Draw.io).
+---
 
+## Infomración acadeémica.
+
+Curso	Proyecto de Grado — Código 202016907
+Programa	Ingeniería de Sistemas
+Escuela	ECBTI — Universidad Nacional Abierta ya Distancia (UNAD)
+Fase 4 - Componente práctico - Práctica Simulada
+Tutor	Rubén Darío Ordóñez
+Autor	Yairon Heiber Murillo Caicedo
+Yeli Lizzeth Pérez Sepúlveda
+Bladimir Pineda Sepulveda
+Período	2026-1
