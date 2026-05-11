@@ -21,3 +21,21 @@ facilitar el acceso a recursos educativos digitales.
 
 Este repositorio contiene el prototipo funcional desarrollado como evidencia del componente práctico de la Fase 4 del Proyecto de Grado.
 
+---
+
+# Objetivos.
+Objetivo general
+Diseñar un sistema de información web que permita fortalecer la gestión educativa 
+y mejorar el acceso a recursos de aprendizaje en comunidades vulnerables de 
+Medellín.
+Objetivos específicos
+• Identificar las necesidades educativas y tecnológicas presentes en 
+comunidades vulnerables de Medellín mediante un diagnóstico participativo 
+con instituciones educativas y líderes comunitarios.
+• Diseñar la arquitectura y estructura funcional de un sistema de información 
+web orientado a la gestión educativa comunitaria.
+• Desarrollar un prototipo del sistema utilizando tecnologías web accesibles 
+que permitan su implementación en contextos con recursos tecnológicos 
+limitados.
+• Evaluar la funcionalidad y el impacto del sistema mediante una prueba 
+piloto en comunidades seleccionadas.
