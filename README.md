@@ -28,24 +28,27 @@ Este repositorio contiene el prototipo funcional desarrollado como evidencia del
 * **Bladimir Pineda Sepulveda**
 ---
 
-# Objetivos.
+## Metodología
+Se utiliza la metodología ágil **Scrum**, permitiendo entregas incrementales y adaptables a las necesidades de la comunidad.
+---
 
-• Diseñar un sistema de información web que permita fortalecer la gestión educativa 
-y mejorar el acceso a recursos de aprendizaje en comunidades vulnerables de 
-Medellín.
-
-• Identificar las necesidades educativas y tecnológicas presentes en 
-comunidades vulnerables de Medellín mediante un diagnóstico participativo 
-con instituciones educativas y líderes comunitarios.
-• Diseñar la arquitectura y estructura funcional de un sistema de información 
-web orientado a la gestión educativa comunitaria.
-• Desarrollar un prototipo del sistema utilizando tecnologías web accesibles 
-que permitan su implementación en contextos con recursos tecnológicos 
-limitados.
-• Evaluar la funcionalidad y el impacto del sistema mediante una prueba 
-piloto en comunidades seleccionadas.
+## Objetivos del Proyecto
+1. Identificar necesidades tecnológicas en las comunas mediante diagnóstico participativo.
+2. Diseñar la arquitectura del sistema de información.
+3. Desarrollar un prototipo funcional accesible.
 
 ---
+
+# Funcionalidades del Prototipo
+---
+
+* **Gestión de Usuarios:** Módulo de registro para estudiantes y líderes comunitarios de las comunas 1, 3, 8 y 13.
+* **Seguimiento Académico:** Panel para monitorear el progreso estudiantil y el rendimiento en tiempo real.
+* **Repositorio de Recursos:** Acceso centralizado a contenidos educativos digitales y materiales de formación.
+* **Panel de Administración:** Interfaz diseñada para docentes y administradores de instituciones educativas.
+* **Interfaz Responsiva:** Diseño adaptable que permite el uso desde computadores, tabletas o teléfonos móviles.
+  ---
+  
 # Recursos Tecnológicos.
 
 • Computador o equipo de desarrollo con conexión a internet.
@@ -57,3 +60,4 @@ PHP o Python).
 • Herramientas de control de versiones (como Git).
 • Software de diseño y modelado (por ejemplo Visual Paradigm, StarUML o 
 Draw.io).
+
