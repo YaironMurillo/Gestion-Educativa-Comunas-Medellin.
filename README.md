@@ -29,7 +29,7 @@ Este repositorio contiene el prototipo funcional desarrollado como evidencia del
 ---
 
 ## Metodología
-Se utiliza la metodología ágil **Scrum**, permitiendo entregas incrementales y adaptables a las necesidades de la comunidad.
+Se utiliza la metodología ágil  Scrum , permitiendo entregas incrementales y adaptables a las necesidades de la comunidad.
 ---
 
 ## Objetivos del Proyecto
@@ -46,7 +46,7 @@ Se utiliza la metodología ágil **Scrum**, permitiendo entregas incrementales y
 * **Seguimiento Académico:** Panel para monitorear el progreso estudiantil y el rendimiento en tiempo real.
 * **Repositorio de Recursos:** Acceso centralizado a contenidos educativos digitales y materiales de formación.
 * **Panel de Administración:** Interfaz diseñada para docentes y administradores de instituciones educativas.
-* **Interfaz Responsiva:** Diseño adaptable que permite el uso desde computadores, tabletas o teléfonos móviles.
+*  **Interfaz Responsiva:**  Diseño adaptable que permite el uso desde computadores, tabletas o teléfonos móviles.
   ---
   
 # Recursos Tecnológicos.
