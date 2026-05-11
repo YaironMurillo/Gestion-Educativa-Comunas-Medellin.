@@ -24,11 +24,12 @@ Este repositorio contiene el prototipo funcional desarrollado como evidencia del
 ---
 
 # Objetivos.
-Objetivo general
+# Objetivo general
 Diseñar un sistema de información web que permita fortalecer la gestión educativa 
 y mejorar el acceso a recursos de aprendizaje en comunidades vulnerables de 
 Medellín.
-Objetivos específicos
+
+# Objetivos específicos
 • Identificar las necesidades educativas y tecnológicas presentes en 
 comunidades vulnerables de Medellín mediante un diagnóstico participativo 
 con instituciones educativas y líderes comunitarios.
