@@ -24,12 +24,11 @@ Este repositorio contiene el prototipo funcional desarrollado como evidencia del
 ---
 
 # Objetivos.
-# Objetivo general
-Diseñar un sistema de información web que permita fortalecer la gestión educativa 
+
+• Diseñar un sistema de información web que permita fortalecer la gestión educativa 
 y mejorar el acceso a recursos de aprendizaje en comunidades vulnerables de 
 Medellín.
 
-# Objetivos específicos
 • Identificar las necesidades educativas y tecnológicas presentes en 
 comunidades vulnerables de Medellín mediante un diagnóstico participativo 
 con instituciones educativas y líderes comunitarios.
@@ -40,3 +39,16 @@ que permitan su implementación en contextos con recursos tecnológicos
 limitados.
 • Evaluar la funcionalidad y el impacto del sistema mediante una prueba 
 piloto en comunidades seleccionadas.
+
+---
+# Recursos Tecnológicos.
+
+• Computador o equipo de desarrollo con conexión a internet.
+• Lenguajes de programación web (por ejemplo: HTML, CSS, JavaScript y 
+PHP o Python).
+• Framework o entorno de desarrollo web.
+• Sistema gestor de base de datos (por ejemplo MySQL o PostgreSQL).
+• Servidor web o servicio de hosting para pruebas del sistema.
+• Herramientas de control de versiones (como Git).
+• Software de diseño y modelado (por ejemplo Visual Paradigm, StarUML o 
+Draw.io).
