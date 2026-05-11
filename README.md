@@ -20,4 +20,4 @@ gestionar información académica, realizar seguimiento al progreso estudiantil 
 facilitar el acceso a recursos educativos digitales.
 
 Este repositorio contiene el prototipo funcional desarrollado como evidencia del componente práctico de la Fase 4 del Proyecto de Grado.
----
+
