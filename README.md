@@ -28,8 +28,8 @@ Este repositorio contiene el prototipo funcional desarrollado como evidencia del
 * **Bladimir Pineda Sepulveda**
 ---
 
-## Metodología
-Se utiliza la metodología ágil  Scrum , permitiendo entregas incrementales y adaptables a las necesidades de la comunidad.
+## Metodología 
+Se utiliza la metodología ágil  Scrum , permitiendo entregas incrementales y adaptables a las necesidades de la comunidad
 ---
 
 ## Objetivos del Proyecto
