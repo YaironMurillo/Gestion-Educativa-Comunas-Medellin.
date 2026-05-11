@@ -22,10 +22,12 @@ facilitar el acceso a recursos educativos digitales.
 Este repositorio contiene el prototipo funcional desarrollado como evidencia del componente práctico de la Fase 4 del Proyecto de Grado.
 
 ---
+
 ## Integrantes
 * **Yairon Heiber Murillo Caicedo**
 * **Yeli Lizzeth Pérez Sepúlveda**
 * **Bladimir Pineda Sepulveda**
+
 ---
 
 ## Metodología 
@@ -49,8 +51,7 @@ Se utiliza la metodología ágil  Scrum , permitiendo entregas incrementales y a
 *  **Interfaz Responsiva:**  Diseño adaptable que permite el uso desde computadores, tabletas o teléfonos móviles.
   ---
   
-# Recursos Tecnológicos.
-
+## Recursos Tecnológicos.
 • Computador o equipo de desarrollo con conexión a internet.
 • Lenguajes de programación web (por ejemplo: HTML, CSS, JavaScript y 
 PHP o Python).
@@ -60,6 +61,7 @@ PHP o Python).
 • Herramientas de control de versiones (como Git).
 • Software de diseño y modelado (por ejemplo Visual Paradigm, StarUML o 
 Draw.io).
+
 ---
 
 ## Infomración acadeémica.
