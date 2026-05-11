@@ -1,7 +1,8 @@
 # Gestion-Educativa-Comunas-Medellin.
 Diseño de un sistema de información web orientado a fortalecer la gestión educativa en comunidades vulnerables de Medellín (Comunas 1, 3, 8 y 13)
 
-Descripción del proyecto.  
+# Descripción del proyecto. 
+---
 
 El presente proyecto tiene como propósito diseñar un sistema de información web 
 orientado a fortalecer la gestión educativa en comunidades vulnerables de 
@@ -18,3 +19,4 @@ gestionar información académica, realizar seguimiento al progreso estudiantil 
 facilitar el acceso a recursos educativos digitales.
 
 Este repositorio contiene el prototipo funcional desarrollado como evidencia del componente práctico de la Fase 4 del Proyecto de Grado.
+---
